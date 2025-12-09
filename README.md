@@ -1,2 +1,0 @@
-# gitwork
-workspace for linux
